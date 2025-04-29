@@ -14,6 +14,6 @@ Há um tour virtual para mostrar como funciona o datacenter.
 º Selecionar a assinatura
 º Criar o nome do grupo de recursos
 º Escolher a Zona
-º Marcaçõesservem para segmentar os centros de custos dentro do grupo
+º Marcações servem para segmentar os centros de custos dentro do grupo
 º Os grupos de recursos tem bloqueios para que cada usuário tenha permissões limitadas
 º Criação de uma Virtual Networking
